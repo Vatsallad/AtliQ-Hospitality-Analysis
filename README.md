@@ -26,4 +26,5 @@ This dashboard has empowered AtliQ Grands with a user-friendly tool that has str
 
 Links
 Linkedin Post: 
-Live Dashboard: 
+
+Live Dashboard: https://app.powerbi.com/view?r=eyJrIjoiMmJjM2EyNmMtOTc2OS00ODAwLTk1MDktYzhlY2Q3MDE3MmRkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
