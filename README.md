@@ -24,6 +24,6 @@ To create an interactive and user-friendly Power BI dashboard that consolidates 
 # Results
 This dashboard has empowered AtliQ Grands with a user-friendly tool that has streamlined their decision-making process, optimized booking channels, and improved performance analysis. Within the first quarter, there was a 20% increase in operational efficiency and a 15% improvement in revenue optimization.
 
-[Linkedin Post Link](https://www.linkedin.com/posts/vatsallad1220_atliq-hospitality-analytics-activity-7313878900156116992-phCw?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEhC5XgBL1ZfrAxvIWgi0p37BaU3H9iAdBk) 
+[Explore the live dashboard](https://app.powerbi.com/view?r=eyJrIjoiMmJjM2EyNmMtOTc2OS00ODAwLTk1MDktYzhlY2Q3MDE3MmRkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=874b3bb072dee348a07a) 
 
 
